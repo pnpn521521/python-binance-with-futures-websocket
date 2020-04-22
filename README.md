@@ -7,4 +7,4 @@ Based on [sammchardy/python-binance](https://github.com/sammchardy/python-binanc
 
 # usage
 
-See example.py
+See [example.py](https://github.com/pnpn521521/python-binance-with-futures-websocket/blob/master/example.py)
