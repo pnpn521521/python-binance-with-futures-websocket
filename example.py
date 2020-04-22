@@ -67,5 +67,5 @@ bfm = BinanceFuturesSocketManager(client)
 
 # User Data Streams
 # bfm.start_futures_socket(process_message)
-bfm.start()
 
+bfm.start()
